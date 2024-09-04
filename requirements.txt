@@ -2,3 +2,4 @@ streamlit
 requests
 python-pptx
 python-docx
+PyMuPDF
