@@ -3,3 +3,6 @@ requests
 python-pptx
 python-docx
 PyMuPDF
+Pillow
+opencv-python-headless
+numpy
